@@ -1,0 +1,1 @@
+Site criado com html e php, para praticar o uso de variáveis em php.
